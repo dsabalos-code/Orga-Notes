@@ -1,6 +1,6 @@
 Changelog
 
-Every changes and progress made to the Not-o-Worri-es project are in this file.
+Every changes and progress made to the Orga-Notes project are in this file.
 CHANGELOG
 
 [v1.0.0] - 2026-08-28
@@ -10,7 +10,7 @@ CHANGELOG
 
 [v1.1.0] - 2026-08-28
 
-- Established Not-o-Worri-es as a digital notebook application.
+- Established Orga-Notes as a digital notebook application.
 - Added the built-in arithmetic calculator as a planned feature.
 
  [v1.2.0] - 2026-08-28
