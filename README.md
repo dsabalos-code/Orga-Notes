@@ -1,8 +1,7 @@
-Not-o Worri-es
-
+Orga-Notes
 Project Overview
 
-Not-o Worri-es is a digital notebook designed to help users create, store, and organize their notes digitally. It will include a built-in arithmetic calculator so that users can perform basic calculations without leaving the application.
+Orga-Notes is a digital notebook designed to help users create, store, and organize their notes digitally. It will include a built-in arithmetic calculator so that users can perform basic calculations without leaving the application.
 
 Project Status
 
@@ -45,7 +44,7 @@ Note: The project is currently in the planning and early development stage, so t
 Sample Interaction / Example Output
 
 ========================
-     NOT-O WORRI-ES
+      Orga-Notes
 ========================
 
 1. Create Note
