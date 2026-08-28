@@ -43,9 +43,9 @@ Note: The project is currently in the planning and early development stage, so t
 
 Sample Interaction / Example Output
 
-========================
+==========
       Orga-Notes
-========================
+==========
 
 1. Create Note
 2. View Saved Notes
@@ -57,7 +57,6 @@ Sample Interaction / Example Output
 Enter your choice: 5
 
 ----- CALCULATOR -----
-
 Enter first number: 25
 Enter operator: *
 Enter second number: 4
@@ -74,3 +73,6 @@ Contributors
 1. Gian Edison C. Pedrero
 2. Caleb Kendrick S. Avenido
 3. Danielle Soffia C. Abalos
+   
+   PDF DOCUMENT:
+[INITIAL DRAFT PROJECT PROPOSAL GROUP 7 (1).docx](https://github.com/user-attachments/files/31556242/INITIAL.DRAFT.PROJECT.PROPOSAL.GROUP.7.1.docx)
